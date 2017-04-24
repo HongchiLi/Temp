@@ -1,3 +1,3 @@
 # Temp
 temp
-Hello World! This is \alpha \in \beta.
+Hello World! This is $\alpha \in \beta$.
