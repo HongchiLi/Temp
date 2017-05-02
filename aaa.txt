@@ -1,5 +1,5 @@
 This is the first file in Git
 
-Ni hao ma? Wo hen has!
+Ni hao ma? Wo hen hao!
 
 Haha LoL
